@@ -4,6 +4,8 @@ Build and Deploy a Solana SPL Token ICO DApp | Next.js, Rust & Anchor Framework 
 
 <img src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosoldep.PNG" alt="sol ico" data-canonical-src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosoldep.PNG" style="max-width: 100%;">
 
+<img src="https://github.com/lehoang11/solana-ico-dapp/blob/3b4d7fadbabf56a41a93c4748806b8f8da02ffbb/img/icosolbuy.PNG" alt="sol ico" data-canonical-src="https://github.com/lehoang11/solana-ico-dapp/blob/3b4d7fadbabf56a41a93c4748806b8f8da02ffbb/img/icosolbuy.PNG" style="max-width: 100%;">
+
 Discover how to build and deploy a Solana SPL Token ICO DApp with this hands-on project! 🚀 This comprehensive guide walks you through creating a fully functional token ICO on the Solana blockchain using the Anchor Framework, Rust, and Next.js.
 
 💡 What You'll Build:
