@@ -2,6 +2,8 @@
 
 Build and Deploy a Solana SPL Token ICO DApp | Next.js, Rust & Anchor Framework Project
 
+<img src="https://github.com/lehoang11/Tap-Mini-App-Clicker/blob/a16fda608e13c60521264d3129a245db08faa1cc/photo_2024-07-16_14-40-04.jpg" alt="Mini App Telegram Clicker - Copy Tapswap, Blum, Hamster" data-canonical-src="https://i.imgur.com/ozcJaWV.jpg" style="max-width: 100%;">
+
 Discover how to build and deploy a Solana SPL Token ICO DApp with this hands-on project! 🚀 This comprehensive guide walks you through creating a fully functional token ICO on the Solana blockchain using the Anchor Framework, Rust, and Next.js.
 
 💡 What You'll Build:
