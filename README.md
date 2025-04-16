@@ -56,9 +56,6 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   URL:https://beta.solpg.io/
 ```
 
-## Contributing:
-
-Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
-
-![icosoldep](https://github.com/user-attachments/assets/bdce4675-99ff-4cc7-863f-4d50b5f7a3ec)![icosolbuyPNG](https://github.com/user-attachments/assets/10d2c6a8-899e-4575-9b79-0eaabf1f5c36)
-
+## Contact:
+Donate SOL : 2vtrzZ8Dty5neqYfLVFfeG6tarhMBVrJNd7vuqpwBUKG
+Support : https://t.me/chris_lev11
