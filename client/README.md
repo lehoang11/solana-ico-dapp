@@ -29,7 +29,7 @@ Perfect for blockchain enthusiasts and developers looking to enhance their skill
 ```
 
 #### Clone Starter File
-git clone https://github.com/viveknarula1980/solana-ico-dapp.git
+git clone https://github.com/lehoang11/solana-ico-dapp.git
 
 npm i
 
