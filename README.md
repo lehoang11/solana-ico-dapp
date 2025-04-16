@@ -56,6 +56,5 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 
 Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
 
-<img src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosolbuy.PNG" alt="" data-canonical-src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosolbuy.PNG" style="max-width: 100%;">
+![icosoldep](https://github.com/user-attachments/assets/bdce4675-99ff-4cc7-863f-4d50b5f7a3ec)![icosolbuyPNG](https://github.com/user-attachments/assets/10d2c6a8-899e-4575-9b79-0eaabf1f5c36)
 
-<img src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosoldep.PNG" alt="" data-canonical-src="https://github.com/lehoang11/solana-ico-dapp/blob/5cfd5926e85de9a456b12a9024e335dce24a5625/img/icosoldep.PNG" style="max-width: 100%;">
